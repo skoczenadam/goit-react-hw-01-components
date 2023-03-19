@@ -1,0 +1,32 @@
+.transactionHistory {
+  width: 800px;
+  border-collapse: collapse;
+  box-shadow: 0 1px 1px 0 rgb(173, 173, 173);
+  margin-top: 50px;
+}
+
+thead {
+  background-color: rgb(21, 173, 173);
+  color: #fff;
+  height: 50px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.transactionHistory,
+td,
+th {
+  border: 1px solid rgb(173, 173, 173);
+  height: 50px;
+  font-size: 14px;
+  text-align: center;
+}
+
+td {
+  color: #555;
+  background-color: #fff;
+}
+
+.even {
+  background-color: rgb(221, 221, 221);
+}

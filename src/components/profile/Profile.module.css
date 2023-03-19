@@ -1,17 +1,8 @@
-body {
-  background-color: #eee;
-  font-family: arial;
-  color: #333;
-}
-
 .profile {
-  position: absolute;
-  top: 10%;
-  left: 5%;
   height: 500px;
   width: 400px;
   background-color: white;
-  box-shadow: 0 0 3px 1px #ccc;
+  box-shadow: 1px 1px 5px 1px rgb(173, 173, 173);
   border-radius: 5px;
 }
 
